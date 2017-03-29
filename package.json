@@ -1,6 +1,6 @@
 {
   "name": "yeps-views-template",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "YEPS React Template",
   "main": "index.js",
   "scripts": {
